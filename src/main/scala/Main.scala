@@ -1,5 +1,4 @@
 object Main extends App {
-  println(P06.isPalindrome(List(1, 2, 3, 2, 1)))
-  println(P06.isPalindrome(List(1, 2, 3, 2, 2)))
-  println(P06.isPalindrome(List()))
+  println(P07.flattenRecursive(List(List(1, 1), 2, List(3, List(5, 8)))))
+  println(P07.flattenFunc(List(List(1, 1), 2, List(3, List(5, 8)))))
 }
