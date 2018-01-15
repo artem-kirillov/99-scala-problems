@@ -1,4 +1,3 @@
 object Main extends App {
-  println(P07.flattenRecursive(List(List(1, 1), 2, List(3, List(5, 8)))))
-  println(P07.flattenFunc(List(List(1, 1), 2, List(3, List(5, 8)))))
+  println(P10.encode(List('a, 'a, 'a, 'a, 'b, 'c, 'c, 'a, 'a, 'd, 'e, 'e, 'e, 'e)))
 }
