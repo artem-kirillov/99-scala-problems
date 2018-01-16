@@ -1,3 +1,5 @@
+package list
+
 /**
   * Run-length encoding of a list.
   * Use the result of problem P09 to implement the so-called run-length encoding data compression method.
